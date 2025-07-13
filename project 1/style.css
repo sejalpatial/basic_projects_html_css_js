@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    margin-top: 50px;
+}
+ 
+div{
+    
+    margin: 0 auto 20px; /* top margin is 0 and auto is for left and right and 20px for bottom 
+                           of the box which is why button is placed 10px under it*/
+    height:300px;
+    width:300px;
+    background-color: antiquewhite;
+}
+.btn
+{
+    color:pink;
+}

@@ -1,0 +1,28 @@
+body{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    margin:0;
+    
+}
+.container {
+  text-align: center;
+  background: #fff;
+  padding: 30px;
+  border-radius: 8px;
+box-shadow: 10px 14px 364px 42px rgba(255,15,15,0.41);
+  width: 1000px;
+  background-color: antiquewhite;
+}
+#quote{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: palevioletred;
+}
+#quoteBox
+{
+    margin-bottom: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

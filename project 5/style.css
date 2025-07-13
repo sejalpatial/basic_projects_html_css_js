@@ -1,0 +1,50 @@
+body{
+  background-color: rgba(137, 26, 26, 0.774);
+  color: white;
+  text-align: center;
+  font-family: "Dancing Script", cursive;;
+}
+.container
+{
+  background-color: bisque;
+  display: inline-block;
+  border-radius: 10px;
+}
+#notes-form
+{ border-radius: 5px;
+  padding:20px;
+}
+#btn
+{
+  background-color:rgb(173, 136, 136);
+  border-color: white;
+  color: white;
+
+}
+ul{
+  padding:5px;
+}
+li{
+  color:black;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  padding:2px 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(251, 207, 154);
+  margin-bottom: 5px;
+}
+.deletebtn
+{
+  padding: 0px;
+  
+}
+.deletebtn:hover{
+  background-color:gray;
+}
+#btn:hover{
+  background-color: rgba(168, 130, 130, 0.764);
+}
+
+

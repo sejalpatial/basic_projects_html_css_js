@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color: beige;
+}
+h1{
+    color:rgb(87, 87, 87);
+    font-size: 50px;
+}
+.btn
+{
+    display: inline-block;
+    font-size: xx-large;
+    margin:auto 10px;
+    
+    
+}
+#one
+{
+    background-color: rgb(16, 176, 16);
+    
+    color: rgb(188, 24, 24);
+}
+#two{
+    background-color: rgb(188, 24, 24);
+    color: rgb(16, 176, 16);
+}
+p{
+    display: inline-block;
+    font-size: xx-large;
+}
+#reset
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
